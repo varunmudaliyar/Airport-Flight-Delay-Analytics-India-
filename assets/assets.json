@@ -1,0 +1,2123 @@
+{
+ "airport_congestion": {
+  "AGR": {
+   "offpeak": 38.4,
+   "peak": 65.0
+  },
+  "AJL": {
+   "offpeak": 39.3,
+   "peak": 63.4
+  },
+  "AKD": {
+   "offpeak": 38.9,
+   "peak": 63.7
+  },
+  "AMD": {
+   "offpeak": 66.2,
+   "peak": 90.1
+  },
+  "ATQ": {
+   "offpeak": 37.9,
+   "peak": 63.8
+  },
+  "BBI": {
+   "offpeak": 38.6,
+   "peak": 63.6
+  },
+  "BDQ": {
+   "offpeak": 38.7,
+   "peak": 64.0
+  },
+  "BHJ": {
+   "offpeak": 37.6,
+   "peak": 63.9
+  },
+  "BHO": {
+   "offpeak": 38.8,
+   "peak": 65.6
+  },
+  "BHU": {
+   "offpeak": 39.0,
+   "peak": 64.1
+  },
+  "BKB": {
+   "offpeak": 39.3,
+   "peak": 63.4
+  },
+  "BLR": {
+   "offpeak": 66.0,
+   "peak": 89.9
+  },
+  "BOM": {
+   "offpeak": 66.2,
+   "peak": 90.1
+  },
+  "CCU": {
+   "offpeak": 66.1,
+   "peak": 90.2
+  },
+  "CJB": {
+   "offpeak": 38.3,
+   "peak": 63.3
+  },
+  "CNN": {
+   "offpeak": 39.5,
+   "peak": 61.8
+  },
+  "COK": {
+   "offpeak": 66.3,
+   "peak": 90.0
+  },
+  "DBR": {
+   "offpeak": 38.5,
+   "peak": 62.3
+  },
+  "DED": {
+   "offpeak": 36.8,
+   "peak": 63.6
+  },
+  "DEL": {
+   "offpeak": 65.9,
+   "peak": 89.7
+  },
+  "DHM": {
+   "offpeak": 38.1,
+   "peak": 64.0
+  },
+  "DIB": {
+   "offpeak": 38.2,
+   "peak": 63.3
+  },
+  "DIU": {
+   "offpeak": 38.2,
+   "peak": 65.4
+  },
+  "DMU": {
+   "offpeak": 37.7,
+   "peak": 62.5
+  },
+  "GAU": {
+   "offpeak": 38.5,
+   "peak": 62.6
+  },
+  "GAY": {
+   "offpeak": 38.6,
+   "peak": 63.3
+  },
+  "GOI": {
+   "offpeak": 38.4,
+   "peak": 64.2
+  },
+  "GOP": {
+   "offpeak": 38.1,
+   "peak": 62.9
+  },
+  "GWL": {
+   "offpeak": 39.1,
+   "peak": 64.4
+  },
+  "HBX": {
+   "offpeak": 37.1,
+   "peak": 61.8
+  },
+  "HYD": {
+   "offpeak": 66.0,
+   "peak": 90.1
+  },
+  "IDR": {
+   "offpeak": 38.5,
+   "peak": 64.6
+  },
+  "IMF": {
+   "offpeak": 38.8,
+   "peak": 63.2
+  },
+  "ISK": {
+   "offpeak": 36.9,
+   "peak": 63.2
+  },
+  "IXA": {
+   "offpeak": 39.3,
+   "peak": 64.2
+  },
+  "IXB": {
+   "offpeak": 38.0,
+   "peak": 63.9
+  },
+  "IXC": {
+   "offpeak": 38.4,
+   "peak": 62.1
+  },
+  "IXD": {
+   "offpeak": 39.3,
+   "peak": 64.1
+  },
+  "IXE": {
+   "offpeak": 38.6,
+   "peak": 63.7
+  },
+  "IXG": {
+   "offpeak": 37.9,
+   "peak": 62.9
+  },
+  "IXJ": {
+   "offpeak": 38.3,
+   "peak": 63.6
+  },
+  "IXM": {
+   "offpeak": 37.3,
+   "peak": 64.1
+  },
+  "IXR": {
+   "offpeak": 40.5,
+   "peak": 64.9
+  },
+  "IXU": {
+   "offpeak": 37.8,
+   "peak": 62.6
+  },
+  "IXW": {
+   "offpeak": 37.4,
+   "peak": 63.5
+  },
+  "IXY": {
+   "offpeak": 38.7,
+   "peak": 61.8
+  },
+  "IXZ": {
+   "offpeak": 38.4,
+   "peak": 64.1
+  },
+  "JAI": {
+   "offpeak": 37.5,
+   "peak": 65.4
+  },
+  "JDH": {
+   "offpeak": 39.6,
+   "peak": 63.8
+  },
+  "JGA": {
+   "offpeak": 38.9,
+   "peak": 63.8
+  },
+  "JLR": {
+   "offpeak": 38.8,
+   "peak": 63.1
+  },
+  "JRH": {
+   "offpeak": 37.9,
+   "peak": 64.0
+  },
+  "JSA": {
+   "offpeak": 37.6,
+   "peak": 64.5
+  },
+  "KNU": {
+   "offpeak": 38.6,
+   "peak": 63.9
+  },
+  "KUU": {
+   "offpeak": 38.3,
+   "peak": 64.3
+  },
+  "LEH": {
+   "offpeak": 38.3,
+   "peak": 64.4
+  },
+  "LKO": {
+   "offpeak": 38.4,
+   "peak": 61.7
+  },
+  "MAA": {
+   "offpeak": 66.3,
+   "peak": 90.2
+  },
+  "MYQ": {
+   "offpeak": 38.8,
+   "peak": 62.4
+  },
+  "NAG": {
+   "offpeak": 39.1,
+   "peak": 64.4
+  },
+  "NDC": {
+   "offpeak": 39.2,
+   "peak": 63.6
+  },
+  "PAT": {
+   "offpeak": 39.8,
+   "peak": 63.5
+  },
+  "PBD": {
+   "offpeak": 38.9,
+   "peak": 63.7
+  },
+  "PNQ": {
+   "offpeak": 37.8,
+   "peak": 63.2
+  },
+  "RAJ": {
+   "offpeak": 38.3,
+   "peak": 62.7
+  },
+  "RDP": {
+   "offpeak": 37.5,
+   "peak": 63.1
+  },
+  "REW": {
+   "offpeak": 39.0,
+   "peak": 63.6
+  },
+  "RPR": {
+   "offpeak": 38.4,
+   "peak": 63.7
+  },
+  "SHL": {
+   "offpeak": 38.9,
+   "peak": 63.6
+  },
+  "SLV": {
+   "offpeak": 37.4,
+   "peak": 65.5
+  },
+  "STV": {
+   "offpeak": 39.0,
+   "peak": 63.2
+  },
+  "SXR": {
+   "offpeak": 38.5,
+   "peak": 63.5
+  },
+  "SXV": {
+   "offpeak": 39.0,
+   "peak": 63.2
+  },
+  "TCR": {
+   "offpeak": 37.5,
+   "peak": 63.2
+  },
+  "TIR": {
+   "offpeak": 39.1,
+   "peak": 63.7
+  },
+  "TRV": {
+   "offpeak": 39.4,
+   "peak": 62.5
+  },
+  "TRZ": {
+   "offpeak": 37.2,
+   "peak": 62.8
+  },
+  "UDR": {
+   "offpeak": 38.0,
+   "peak": 64.3
+  },
+  "VDY": {
+   "offpeak": 38.4,
+   "peak": 63.8
+  },
+  "VGA": {
+   "offpeak": 37.3,
+   "peak": 64.2
+  },
+  "VNS": {
+   "offpeak": 39.8,
+   "peak": 63.2
+  },
+  "VOBL": {
+   "offpeak": 38.6,
+   "peak": 63.4
+  },
+  "VOPC": {
+   "offpeak": 38.6,
+   "peak": 64.3
+  },
+  "VOPN": {
+   "offpeak": 39.4,
+   "peak": 64.6
+  },
+  "VTU": {
+   "offpeak": 37.9,
+   "peak": 62.8
+  },
+  "VTZ": {
+   "offpeak": 39.3,
+   "peak": 65.1
+  }
+ },
+ "weather_profile": {
+  "Clear/Partly Cloudy": {
+   "Rainfall_mm": 0.7,
+   "Visibility_km": 11.0,
+   "Cloud_Cover_pct": 23.5
+  },
+  "Heavy Rain": {
+   "Rainfall_mm": 12.5,
+   "Visibility_km": 9.4,
+   "Cloud_Cover_pct": 41.6
+  },
+  "Rain": {
+   "Rainfall_mm": 5.1,
+   "Visibility_km": 10.4,
+   "Cloud_Cover_pct": 30.1
+  }
+ },
+ "month_profile": {
+  "1": {
+   "Temperature_C": 21.0,
+   "Humidity_pct": 56.4,
+   "Wind_Speed_kmh": 6.0
+  },
+  "2": {
+   "Temperature_C": 21.9,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 5.9
+  },
+  "3": {
+   "Temperature_C": 24.0,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 5.9
+  },
+  "4": {
+   "Temperature_C": 27.0,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  },
+  "5": {
+   "Temperature_C": 30.0,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  },
+  "6": {
+   "Temperature_C": 32.2,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  },
+  "7": {
+   "Temperature_C": 33.0,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  },
+  "8": {
+   "Temperature_C": 32.2,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  },
+  "9": {
+   "Temperature_C": 30.0,
+   "Humidity_pct": 56.5,
+   "Wind_Speed_kmh": 6.0
+  },
+  "10": {
+   "Temperature_C": 27.0,
+   "Humidity_pct": 56.4,
+   "Wind_Speed_kmh": 6.0
+  },
+  "11": {
+   "Temperature_C": 24.0,
+   "Humidity_pct": 56.2,
+   "Wind_Speed_kmh": 6.0
+  },
+  "12": {
+   "Temperature_C": 21.8,
+   "Humidity_pct": 56.3,
+   "Wind_Speed_kmh": 6.0
+  }
+ },
+ "airline_share": {
+  "IndiGo": 0.4016,
+  "Air India": 0.1792,
+  "Air India Express": 0.1014,
+  "Akasa Air": 0.0796,
+  "SpiceJet": 0.0783,
+  "Vistara": 0.06,
+  "Star Air": 0.0405,
+  "Alliance Air": 0.0394,
+  "Fly91": 0.0201
+ },
+ "dest_share": {
+  "DEL": 0.15761,
+  "BOM": 0.12912,
+  "BLR": 0.11248,
+  "HYD": 0.09567,
+  "MAA": 0.08815,
+  "CCU": 0.07867,
+  "COK": 0.07017,
+  "AMD": 0.06046,
+  "CJB": 0.00304,
+  "BDQ": 0.00296,
+  "VOPN": 0.00295,
+  "AJL": 0.00295,
+  "IDR": 0.00291,
+  "IXM": 0.00289,
+  "PBD": 0.00283,
+  "DED": 0.00281,
+  "IXU": 0.00281,
+  "VOPC": 0.00281,
+  "IXE": 0.00279,
+  "KNU": 0.00279,
+  "IXG": 0.00279,
+  "TCR": 0.00279,
+  "KUU": 0.00279,
+  "JRH": 0.00279,
+  "GOI": 0.00278,
+  "AGR": 0.00276,
+  "LKO": 0.00276,
+  "TRZ": 0.00276,
+  "DMU": 0.00276,
+  "JGA": 0.00275,
+  "IXA": 0.00274,
+  "IXJ": 0.00273,
+  "CNN": 0.00273,
+  "HBX": 0.00273,
+  "BHO": 0.00272,
+  "JDH": 0.00271,
+  "DBR": 0.00271,
+  "GAU": 0.00271,
+  "PAT": 0.00271,
+  "VTU": 0.00269,
+  "RPR": 0.00268,
+  "IXB": 0.00268,
+  "REW": 0.00268,
+  "IXC": 0.00267,
+  "IXY": 0.00267,
+  "VOBL": 0.00266,
+  "DHM": 0.00265,
+  "DIU": 0.00265,
+  "SXR": 0.00265,
+  "NAG": 0.00265,
+  "BBI": 0.00264,
+  "IMF": 0.00263,
+  "IXZ": 0.00263,
+  "JSA": 0.00263,
+  "VTZ": 0.00263,
+  "GOP": 0.00263,
+  "RDP": 0.00261,
+  "DIB": 0.00261,
+  "IXW": 0.00261,
+  "STV": 0.0026,
+  "SXV": 0.00259,
+  "JAI": 0.00258,
+  "VNS": 0.00257,
+  "VDY": 0.00257,
+  "TRV": 0.00257,
+  "TIR": 0.00257,
+  "BKB": 0.00257,
+  "SLV": 0.00257,
+  "GWL": 0.00257,
+  "ISK": 0.00255,
+  "AKD": 0.00253,
+  "LEH": 0.00252,
+  "IXD": 0.00252,
+  "ATQ": 0.00251,
+  "JLR": 0.00251,
+  "VGA": 0.00251,
+  "BHU": 0.00251,
+  "PNQ": 0.0025,
+  "NDC": 0.00249,
+  "GAY": 0.00248,
+  "UDR": 0.00248,
+  "RAJ": 0.00247,
+  "BHJ": 0.00245,
+  "IXR": 0.00241,
+  "MYQ": 0.00239,
+  "SHL": 0.00235
+ },
+ "hour_share": {
+  "5": 0.0524,
+  "6": 0.0531,
+  "7": 0.0527,
+  "8": 0.0525,
+  "9": 0.053,
+  "10": 0.0523,
+  "11": 0.0529,
+  "12": 0.0529,
+  "13": 0.0523,
+  "14": 0.0514,
+  "15": 0.0525,
+  "16": 0.0525,
+  "17": 0.0529,
+  "18": 0.0532,
+  "19": 0.0526,
+  "20": 0.053,
+  "21": 0.0531,
+  "22": 0.052,
+  "23": 0.0528
+ },
+ "defaults": {
+  "prev_delay_mean": 6.1708066666666666,
+  "turnaround_mean": 35.71518733333333,
+  "turnaround_std": 8.719540546811427
+ },
+ "kpi": {
+  "flights": 150000,
+  "delay_rate": 0.8661666666666666,
+  "avg_delay_all": 42.66434,
+  "avg_delay_when_delayed": 49.25650182797768,
+  "airports": 86,
+  "airlines": 9,
+  "date_from": "2023-01-01",
+  "date_to": "2025-12-30"
+ },
+ "by_airline": [
+  {
+   "key": "Air India",
+   "flights": 26875,
+   "delay_rate": 0.8688,
+   "avg_delay": 42.712,
+   "congestion": 72.3957
+  },
+  {
+   "key": "Air India Express",
+   "flights": 15212,
+   "delay_rate": 0.875,
+   "avg_delay": 43.0241,
+   "congestion": 72.5012
+  },
+  {
+   "key": "Akasa Air",
+   "flights": 11937,
+   "delay_rate": 0.8542,
+   "avg_delay": 42.1138,
+   "congestion": 72.1025
+  },
+  {
+   "key": "Alliance Air",
+   "flights": 5915,
+   "delay_rate": 0.8783,
+   "avg_delay": 43.2362,
+   "congestion": 72.5017
+  },
+  {
+   "key": "Fly91",
+   "flights": 3014,
+   "delay_rate": 0.8699,
+   "avg_delay": 42.9827,
+   "congestion": 73.0078
+  },
+  {
+   "key": "IndiGo",
+   "flights": 60242,
+   "delay_rate": 0.8623,
+   "avg_delay": 42.5238,
+   "congestion": 72.4425
+  },
+  {
+   "key": "SpiceJet",
+   "flights": 11739,
+   "delay_rate": 0.8758,
+   "avg_delay": 43.0453,
+   "congestion": 72.2217
+  },
+  {
+   "key": "Star Air",
+   "flights": 6072,
+   "delay_rate": 0.8738,
+   "avg_delay": 42.9671,
+   "congestion": 72.5464
+  },
+  {
+   "key": "Vistara",
+   "flights": 8994,
+   "delay_rate": 0.8581,
+   "avg_delay": 42.4009,
+   "congestion": 72.3189
+  }
+ ],
+ "by_airport": [
+  {
+   "key": "AGR",
+   "flights": 326,
+   "delay_rate": 0.5368,
+   "avg_delay": 25.0399,
+   "congestion": 50.2242
+  },
+  {
+   "key": "AJL",
+   "flights": 351,
+   "delay_rate": 0.6239,
+   "avg_delay": 29.0399,
+   "congestion": 51.4798
+  },
+  {
+   "key": "AKD",
+   "flights": 357,
+   "delay_rate": 0.6022,
+   "avg_delay": 28.6246,
+   "congestion": 51.0185
+  },
+  {
+   "key": "AMD",
+   "flights": 8579,
+   "delay_rate": 0.9269,
+   "avg_delay": 46.1384,
+   "congestion": 77.6847
+  },
+  {
+   "key": "ATQ",
+   "flights": 360,
+   "delay_rate": 0.6389,
+   "avg_delay": 29.4972,
+   "congestion": 50.0764
+  },
+  {
+   "key": "BBI",
+   "flights": 343,
+   "delay_rate": 0.6239,
+   "avg_delay": 28.9242,
+   "congestion": 50.2892
+  },
+  {
+   "key": "BDQ",
+   "flights": 359,
+   "delay_rate": 0.6295,
+   "avg_delay": 29.2618,
+   "congestion": 50.339
+  },
+  {
+   "key": "BHJ",
+   "flights": 334,
+   "delay_rate": 0.6287,
+   "avg_delay": 29.497,
+   "congestion": 51.1608
+  },
+  {
+   "key": "BHO",
+   "flights": 334,
+   "delay_rate": 0.6228,
+   "avg_delay": 29.8862,
+   "congestion": 52.6763
+  },
+  {
+   "key": "BHU",
+   "flights": 379,
+   "delay_rate": 0.6306,
+   "avg_delay": 29.5884,
+   "congestion": 50.8509
+  },
+  {
+   "key": "BKB",
+   "flights": 372,
+   "delay_rate": 0.6129,
+   "avg_delay": 28.5027,
+   "congestion": 50.0739
+  },
+  {
+   "key": "BLR",
+   "flights": 17398,
+   "delay_rate": 0.9249,
+   "avg_delay": 45.9196,
+   "congestion": 77.4216
+  },
+  {
+   "key": "BOM",
+   "flights": 20363,
+   "delay_rate": 0.9239,
+   "avg_delay": 45.9602,
+   "congestion": 77.4338
+  },
+  {
+   "key": "CCU",
+   "flights": 11697,
+   "delay_rate": 0.9261,
+   "avg_delay": 46.082,
+   "congestion": 77.4846
+  },
+  {
+   "key": "CJB",
+   "flights": 373,
+   "delay_rate": 0.5818,
+   "avg_delay": 26.9303,
+   "congestion": 48.996
+  },
+  {
+   "key": "CNN",
+   "flights": 371,
+   "delay_rate": 0.593,
+   "avg_delay": 27.6442,
+   "congestion": 49.8119
+  },
+  {
+   "key": "COK",
+   "flights": 10184,
+   "delay_rate": 0.9331,
+   "avg_delay": 46.2877,
+   "congestion": 77.7511
+  },
+  {
+   "key": "DBR",
+   "flights": 380,
+   "delay_rate": 0.6053,
+   "avg_delay": 28.0632,
+   "congestion": 50.33
+  },
+  {
+   "key": "DED",
+   "flights": 350,
+   "delay_rate": 0.5457,
+   "avg_delay": 25.9086,
+   "congestion": 48.762
+  },
+  {
+   "key": "DEL",
+   "flights": 26337,
+   "delay_rate": 0.9265,
+   "avg_delay": 45.9496,
+   "congestion": 77.0798
+  },
+  {
+   "key": "DHM",
+   "flights": 366,
+   "delay_rate": 0.6175,
+   "avg_delay": 29.0246,
+   "congestion": 51.7598
+  },
+  {
+   "key": "DIB",
+   "flights": 373,
+   "delay_rate": 0.5898,
+   "avg_delay": 27.1367,
+   "congestion": 49.2391
+  },
+  {
+   "key": "DIU",
+   "flights": 356,
+   "delay_rate": 0.632,
+   "avg_delay": 29.2725,
+   "congestion": 51.4761
+  },
+  {
+   "key": "DMU",
+   "flights": 350,
+   "delay_rate": 0.6,
+   "avg_delay": 28.0286,
+   "congestion": 49.7331
+  },
+  {
+   "key": "GAU",
+   "flights": 339,
+   "delay_rate": 0.6047,
+   "avg_delay": 27.59,
+   "congestion": 49.9289
+  },
+  {
+   "key": "GAY",
+   "flights": 376,
+   "delay_rate": 0.6277,
+   "avg_delay": 29.1197,
+   "congestion": 49.7319
+  },
+  {
+   "key": "GOI",
+   "flights": 353,
+   "delay_rate": 0.5666,
+   "avg_delay": 25.7677,
+   "congestion": 49.4357
+  },
+  {
+   "key": "GOP",
+   "flights": 366,
+   "delay_rate": 0.5874,
+   "avg_delay": 27.2596,
+   "congestion": 49.3923
+  },
+  {
+   "key": "GWL",
+   "flights": 365,
+   "delay_rate": 0.589,
+   "avg_delay": 27.5425,
+   "congestion": 50.986
+  },
+  {
+   "key": "HBX",
+   "flights": 367,
+   "delay_rate": 0.6049,
+   "avg_delay": 27.8229,
+   "congestion": 49.1926
+  },
+  {
+   "key": "HYD",
+   "flights": 14461,
+   "delay_rate": 0.9237,
+   "avg_delay": 45.914,
+   "congestion": 77.4013
+  },
+  {
+   "key": "IDR",
+   "flights": 341,
+   "delay_rate": 0.5953,
+   "avg_delay": 27.3959,
+   "congestion": 49.6818
+  },
+  {
+   "key": "IMF",
+   "flights": 367,
+   "delay_rate": 0.6158,
+   "avg_delay": 29.0191,
+   "congestion": 50.6861
+  },
+  {
+   "key": "ISK",
+   "flights": 364,
+   "delay_rate": 0.5797,
+   "avg_delay": 27.8434,
+   "congestion": 49.7143
+  },
+  {
+   "key": "IXA",
+   "flights": 326,
+   "delay_rate": 0.6166,
+   "avg_delay": 28.4755,
+   "congestion": 51.5408
+  },
+  {
+   "key": "IXB",
+   "flights": 382,
+   "delay_rate": 0.6126,
+   "avg_delay": 28.5314,
+   "congestion": 51.2419
+  },
+  {
+   "key": "IXC",
+   "flights": 377,
+   "delay_rate": 0.6658,
+   "avg_delay": 30.9178,
+   "congestion": 51.4523
+  },
+  {
+   "key": "IXD",
+   "flights": 354,
+   "delay_rate": 0.6186,
+   "avg_delay": 29.0537,
+   "congestion": 51.5096
+  },
+  {
+   "key": "IXE",
+   "flights": 344,
+   "delay_rate": 0.6279,
+   "avg_delay": 29.1657,
+   "congestion": 50.2003
+  },
+  {
+   "key": "IXG",
+   "flights": 337,
+   "delay_rate": 0.5875,
+   "avg_delay": 27.1691,
+   "congestion": 49.5549
+  },
+  {
+   "key": "IXJ",
+   "flights": 387,
+   "delay_rate": 0.5969,
+   "avg_delay": 27.1654,
+   "congestion": 50.2587
+  },
+  {
+   "key": "IXM",
+   "flights": 347,
+   "delay_rate": 0.5879,
+   "avg_delay": 27.6772,
+   "congestion": 49.9182
+  },
+  {
+   "key": "IXR",
+   "flights": 341,
+   "delay_rate": 0.5924,
+   "avg_delay": 27.7625,
+   "congestion": 52.4516
+  },
+  {
+   "key": "IXU",
+   "flights": 353,
+   "delay_rate": 0.5892,
+   "avg_delay": 27.4193,
+   "congestion": 50.4533
+  },
+  {
+   "key": "IXW",
+   "flights": 355,
+   "delay_rate": 0.5746,
+   "avg_delay": 26.7662,
+   "congestion": 49.9186
+  },
+  {
+   "key": "IXY",
+   "flights": 385,
+   "delay_rate": 0.5662,
+   "avg_delay": 26.6338,
+   "congestion": 49.2192
+  },
+  {
+   "key": "IXZ",
+   "flights": 368,
+   "delay_rate": 0.6114,
+   "avg_delay": 28.5707,
+   "congestion": 51.4139
+  },
+  {
+   "key": "JAI",
+   "flights": 379,
+   "delay_rate": 0.6596,
+   "avg_delay": 30.8311,
+   "congestion": 51.7124
+  },
+  {
+   "key": "JDH",
+   "flights": 354,
+   "delay_rate": 0.6723,
+   "avg_delay": 30.5876,
+   "congestion": 52.498
+  },
+  {
+   "key": "JGA",
+   "flights": 376,
+   "delay_rate": 0.609,
+   "avg_delay": 28.6011,
+   "congestion": 50.4543
+  },
+  {
+   "key": "JLR",
+   "flights": 368,
+   "delay_rate": 0.6114,
+   "avg_delay": 28.4755,
+   "congestion": 50.8484
+  },
+  {
+   "key": "JRH",
+   "flights": 375,
+   "delay_rate": 0.5787,
+   "avg_delay": 26.9227,
+   "congestion": 49.8019
+  },
+  {
+   "key": "JSA",
+   "flights": 381,
+   "delay_rate": 0.6115,
+   "avg_delay": 28.6404,
+   "congestion": 51.7528
+  },
+  {
+   "key": "KNU",
+   "flights": 309,
+   "delay_rate": 0.589,
+   "avg_delay": 27.0485,
+   "congestion": 50.9621
+  },
+  {
+   "key": "KUU",
+   "flights": 382,
+   "delay_rate": 0.623,
+   "avg_delay": 28.8429,
+   "congestion": 50.1948
+  },
+  {
+   "key": "LEH",
+   "flights": 381,
+   "delay_rate": 0.6089,
+   "avg_delay": 28.1286,
+   "congestion": 50.7058
+  },
+  {
+   "key": "LKO",
+   "flights": 370,
+   "delay_rate": 0.5676,
+   "avg_delay": 26.1865,
+   "congestion": 48.7965
+  },
+  {
+   "key": "MAA",
+   "flights": 13019,
+   "delay_rate": 0.93,
+   "avg_delay": 46.2097,
+   "congestion": 77.7817
+  },
+  {
+   "key": "MYQ",
+   "flights": 377,
+   "delay_rate": 0.6021,
+   "avg_delay": 27.3263,
+   "congestion": 49.8517
+  },
+  {
+   "key": "NAG",
+   "flights": 325,
+   "delay_rate": 0.6308,
+   "avg_delay": 30.1446,
+   "congestion": 52.0062
+  },
+  {
+   "key": "NDC",
+   "flights": 367,
+   "delay_rate": 0.6322,
+   "avg_delay": 28.8828,
+   "congestion": 50.5902
+  },
+  {
+   "key": "PAT",
+   "flights": 357,
+   "delay_rate": 0.6471,
+   "avg_delay": 30.3053,
+   "congestion": 52.4148
+  },
+  {
+   "key": "PBD",
+   "flights": 393,
+   "delay_rate": 0.6158,
+   "avg_delay": 28.0789,
+   "congestion": 50.513
+  },
+  {
+   "key": "PNQ",
+   "flights": 357,
+   "delay_rate": 0.5994,
+   "avg_delay": 27.7815,
+   "congestion": 50.2199
+  },
+  {
+   "key": "RAJ",
+   "flights": 350,
+   "delay_rate": 0.5486,
+   "avg_delay": 25.3886,
+   "congestion": 49.9714
+  },
+  {
+   "key": "RDP",
+   "flights": 331,
+   "delay_rate": 0.6133,
+   "avg_delay": 28.2447,
+   "congestion": 49.8375
+  },
+  {
+   "key": "REW",
+   "flights": 367,
+   "delay_rate": 0.5831,
+   "avg_delay": 26.7193,
+   "congestion": 49.7477
+  },
+  {
+   "key": "RPR",
+   "flights": 361,
+   "delay_rate": 0.5845,
+   "avg_delay": 26.9391,
+   "congestion": 50.6175
+  },
+  {
+   "key": "SHL",
+   "flights": 325,
+   "delay_rate": 0.6,
+   "avg_delay": 28.1477,
+   "congestion": 50.6902
+  },
+  {
+   "key": "SLV",
+   "flights": 378,
+   "delay_rate": 0.5899,
+   "avg_delay": 27.1376,
+   "congestion": 50.4738
+  },
+  {
+   "key": "STV",
+   "flights": 345,
+   "delay_rate": 0.5913,
+   "avg_delay": 27.4696,
+   "congestion": 50.7478
+  },
+  {
+   "key": "SXR",
+   "flights": 362,
+   "delay_rate": 0.6188,
+   "avg_delay": 28.5221,
+   "congestion": 50.8442
+  },
+  {
+   "key": "SXV",
+   "flights": 358,
+   "delay_rate": 0.6089,
+   "avg_delay": 27.9162,
+   "congestion": 51.0218
+  },
+  {
+   "key": "TCR",
+   "flights": 349,
+   "delay_rate": 0.5874,
+   "avg_delay": 26.9083,
+   "congestion": 48.8822
+  },
+  {
+   "key": "TIR",
+   "flights": 353,
+   "delay_rate": 0.6204,
+   "avg_delay": 29.0538,
+   "congestion": 50.9365
+  },
+  {
+   "key": "TRV",
+   "flights": 361,
+   "delay_rate": 0.6233,
+   "avg_delay": 28.2632,
+   "congestion": 50.8302
+  },
+  {
+   "key": "TRZ",
+   "flights": 329,
+   "delay_rate": 0.5775,
+   "avg_delay": 26.0182,
+   "congestion": 49.0356
+  },
+  {
+   "key": "UDR",
+   "flights": 355,
+   "delay_rate": 0.5662,
+   "avg_delay": 26.1831,
+   "congestion": 50.3552
+  },
+  {
+   "key": "VDY",
+   "flights": 365,
+   "delay_rate": 0.5562,
+   "avg_delay": 25.3397,
+   "congestion": 49.3942
+  },
+  {
+   "key": "VGA",
+   "flights": 361,
+   "delay_rate": 0.5983,
+   "avg_delay": 28.0055,
+   "congestion": 50.4172
+  },
+  {
+   "key": "VNS",
+   "flights": 339,
+   "delay_rate": 0.5929,
+   "avg_delay": 27.941,
+   "congestion": 50.9083
+  },
+  {
+   "key": "VOBL",
+   "flights": 364,
+   "delay_rate": 0.6236,
+   "avg_delay": 28.9753,
+   "congestion": 50.686
+  },
+  {
+   "key": "VOPC",
+   "flights": 384,
+   "delay_rate": 0.599,
+   "avg_delay": 27.6536,
+   "congestion": 49.8659
+  },
+  {
+   "key": "VOPN",
+   "flights": 351,
+   "delay_rate": 0.6353,
+   "avg_delay": 28.7949,
+   "congestion": 51.6336
+  },
+  {
+   "key": "VTU",
+   "flights": 362,
+   "delay_rate": 0.5497,
+   "avg_delay": 25.616,
+   "congestion": 48.7696
+  },
+  {
+   "key": "VTZ",
+   "flights": 333,
+   "delay_rate": 0.5736,
+   "avg_delay": 26.8078,
+   "congestion": 50.0634
+  }
+ ],
+ "by_hour": [
+  {
+   "key": 5,
+   "flights": 7862,
+   "delay_rate": 0.7973,
+   "avg_delay": 35.6769,
+   "congestion": 61.0327
+  },
+  {
+   "key": 6,
+   "flights": 7960,
+   "delay_rate": 0.7907,
+   "avg_delay": 35.4753,
+   "congestion": 61.2325
+  },
+  {
+   "key": 7,
+   "flights": 7912,
+   "delay_rate": 0.9462,
+   "avg_delay": 50.4602,
+   "congestion": 84.96
+  },
+  {
+   "key": 8,
+   "flights": 7875,
+   "delay_rate": 0.9481,
+   "avg_delay": 50.6301,
+   "congestion": 85.0312
+  },
+  {
+   "key": 9,
+   "flights": 7943,
+   "delay_rate": 0.9464,
+   "avg_delay": 50.5835,
+   "congestion": 84.9657
+  },
+  {
+   "key": 10,
+   "flights": 7843,
+   "delay_rate": 0.9461,
+   "avg_delay": 50.4194,
+   "congestion": 85.1726
+  },
+  {
+   "key": 11,
+   "flights": 7942,
+   "delay_rate": 0.7902,
+   "avg_delay": 35.4199,
+   "congestion": 60.8682
+  },
+  {
+   "key": 12,
+   "flights": 7931,
+   "delay_rate": 0.7908,
+   "avg_delay": 35.4392,
+   "congestion": 60.9087
+  },
+  {
+   "key": 13,
+   "flights": 7843,
+   "delay_rate": 0.7969,
+   "avg_delay": 35.7358,
+   "congestion": 61.0861
+  },
+  {
+   "key": 14,
+   "flights": 7704,
+   "delay_rate": 0.7831,
+   "avg_delay": 35.0073,
+   "congestion": 60.7017
+  },
+  {
+   "key": 15,
+   "flights": 7882,
+   "delay_rate": 0.7932,
+   "avg_delay": 35.5615,
+   "congestion": 60.9753
+  },
+  {
+   "key": 16,
+   "flights": 7869,
+   "delay_rate": 0.7957,
+   "avg_delay": 35.7091,
+   "congestion": 60.8763
+  },
+  {
+   "key": 17,
+   "flights": 7931,
+   "delay_rate": 0.9491,
+   "avg_delay": 50.6984,
+   "congestion": 85.1404
+  },
+  {
+   "key": 18,
+   "flights": 7984,
+   "delay_rate": 0.9479,
+   "avg_delay": 50.6593,
+   "congestion": 85.2202
+  },
+  {
+   "key": 19,
+   "flights": 7890,
+   "delay_rate": 0.9492,
+   "avg_delay": 50.6665,
+   "congestion": 84.9485
+  },
+  {
+   "key": 20,
+   "flights": 7955,
+   "delay_rate": 0.9461,
+   "avg_delay": 50.6231,
+   "congestion": 85.1012
+  },
+  {
+   "key": 21,
+   "flights": 7959,
+   "delay_rate": 0.951,
+   "avg_delay": 50.7801,
+   "congestion": 84.9696
+  },
+  {
+   "key": 22,
+   "flights": 7798,
+   "delay_rate": 0.7926,
+   "avg_delay": 35.2563,
+   "congestion": 60.7549
+  },
+  {
+   "key": 23,
+   "flights": 7917,
+   "delay_rate": 0.792,
+   "avg_delay": 35.3487,
+   "congestion": 61.0316
+  }
+ ],
+ "by_month": [
+  {
+   "key": 1,
+   "flights": 12762,
+   "delay_rate": 0.8625,
+   "avg_delay": 42.5125,
+   "congestion": 72.4975
+  },
+  {
+   "key": 2,
+   "flights": 11635,
+   "delay_rate": 0.8677,
+   "avg_delay": 42.7153,
+   "congestion": 72.4219
+  },
+  {
+   "key": 3,
+   "flights": 12749,
+   "delay_rate": 0.8712,
+   "avg_delay": 42.8746,
+   "congestion": 72.7547
+  },
+  {
+   "key": 4,
+   "flights": 12312,
+   "delay_rate": 0.8658,
+   "avg_delay": 42.5967,
+   "congestion": 72.4205
+  },
+  {
+   "key": 5,
+   "flights": 12797,
+   "delay_rate": 0.8644,
+   "avg_delay": 42.4525,
+   "congestion": 72.2572
+  },
+  {
+   "key": 6,
+   "flights": 12431,
+   "delay_rate": 0.8642,
+   "avg_delay": 42.6037,
+   "congestion": 72.2502
+  },
+  {
+   "key": 7,
+   "flights": 12583,
+   "delay_rate": 0.867,
+   "avg_delay": 42.8285,
+   "congestion": 72.5804
+  },
+  {
+   "key": 8,
+   "flights": 12802,
+   "delay_rate": 0.8682,
+   "avg_delay": 42.7948,
+   "congestion": 72.3321
+  },
+  {
+   "key": 9,
+   "flights": 12331,
+   "delay_rate": 0.8693,
+   "avg_delay": 42.8252,
+   "congestion": 72.5246
+  },
+  {
+   "key": 10,
+   "flights": 12693,
+   "delay_rate": 0.8664,
+   "avg_delay": 42.6997,
+   "congestion": 72.1383
+  },
+  {
+   "key": 11,
+   "flights": 12418,
+   "delay_rate": 0.8653,
+   "avg_delay": 42.6483,
+   "congestion": 72.4736
+  },
+  {
+   "key": 12,
+   "flights": 12487,
+   "delay_rate": 0.8621,
+   "avg_delay": 42.4236,
+   "congestion": 72.2252
+  }
+ ],
+ "by_dow": [
+  {
+   "key": 0,
+   "flights": 21601,
+   "delay_rate": 0.848,
+   "avg_delay": 41.5196,
+   "congestion": 70.3807
+  },
+  {
+   "key": 1,
+   "flights": 21473,
+   "delay_rate": 0.846,
+   "avg_delay": 41.4839,
+   "congestion": 70.4848
+  },
+  {
+   "key": 2,
+   "flights": 21380,
+   "delay_rate": 0.8514,
+   "avg_delay": 41.6386,
+   "congestion": 70.2987
+  },
+  {
+   "key": 3,
+   "flights": 21365,
+   "delay_rate": 0.8481,
+   "avg_delay": 41.5503,
+   "congestion": 70.3228
+  },
+  {
+   "key": 4,
+   "flights": 21158,
+   "delay_rate": 0.8462,
+   "avg_delay": 41.4081,
+   "congestion": 70.4894
+  },
+  {
+   "key": 5,
+   "flights": 21532,
+   "delay_rate": 0.9134,
+   "avg_delay": 45.5501,
+   "congestion": 77.3801
+  },
+  {
+   "key": 6,
+   "flights": 21491,
+   "delay_rate": 0.9096,
+   "avg_delay": 45.468,
+   "congestion": 77.4335
+  }
+ ],
+ "by_weather": [
+  {
+   "key": "Clear/Partly Cloudy",
+   "flights": 119254,
+   "delay_rate": 0.8618,
+   "avg_delay": 41.8382,
+   "congestion": 72.4023
+  },
+  {
+   "key": "Heavy Rain",
+   "flights": 1945,
+   "delay_rate": 0.9162,
+   "avg_delay": 52.0843,
+   "congestion": 72.7239
+  },
+  {
+   "key": "Rain",
+   "flights": 28801,
+   "delay_rate": 0.8807,
+   "avg_delay": 45.4489,
+   "congestion": 72.4009
+  }
+ ],
+ "by_congestion": [
+  {
+   "key": "Low (\u226440)",
+   "flights": 9173,
+   "delay_rate": 0.1494,
+   "avg_delay": 6.1539
+  },
+  {
+   "key": "Medium (40\u201360)",
+   "flights": 26666,
+   "delay_rate": 0.7128,
+   "avg_delay": 30.3412
+  },
+  {
+   "key": "High (60\u201380)",
+   "flights": 59969,
+   "delay_rate": 0.9605,
+   "avg_delay": 44.9115
+  },
+  {
+   "key": "Very high (80+)",
+   "flights": 54192,
+   "delay_rate": 0.9586,
+   "avg_delay": 52.4215
+  }
+ ],
+ "monthly_trend": [
+  {
+   "key": "2023-01",
+   "delay_rate": 0.8688,
+   "avg_delay": 43.1249
+  },
+  {
+   "key": "2023-02",
+   "delay_rate": 0.8651,
+   "avg_delay": 42.4276
+  },
+  {
+   "key": "2023-03",
+   "delay_rate": 0.8668,
+   "avg_delay": 42.649
+  },
+  {
+   "key": "2023-04",
+   "delay_rate": 0.8645,
+   "avg_delay": 42.4659
+  },
+  {
+   "key": "2023-05",
+   "delay_rate": 0.868,
+   "avg_delay": 42.6427
+  },
+  {
+   "key": "2023-06",
+   "delay_rate": 0.8626,
+   "avg_delay": 42.4753
+  },
+  {
+   "key": "2023-07",
+   "delay_rate": 0.8647,
+   "avg_delay": 42.6736
+  },
+  {
+   "key": "2023-08",
+   "delay_rate": 0.8716,
+   "avg_delay": 43.077
+  },
+  {
+   "key": "2023-09",
+   "delay_rate": 0.8715,
+   "avg_delay": 42.7729
+  },
+  {
+   "key": "2023-10",
+   "delay_rate": 0.8709,
+   "avg_delay": 42.8043
+  },
+  {
+   "key": "2023-11",
+   "delay_rate": 0.8584,
+   "avg_delay": 42.2598
+  },
+  {
+   "key": "2023-12",
+   "delay_rate": 0.8626,
+   "avg_delay": 42.3569
+  },
+  {
+   "key": "2024-01",
+   "delay_rate": 0.861,
+   "avg_delay": 42.4327
+  },
+  {
+   "key": "2024-02",
+   "delay_rate": 0.8669,
+   "avg_delay": 42.7913
+  },
+  {
+   "key": "2024-03",
+   "delay_rate": 0.8715,
+   "avg_delay": 42.942
+  },
+  {
+   "key": "2024-04",
+   "delay_rate": 0.8712,
+   "avg_delay": 42.8903
+  },
+  {
+   "key": "2024-05",
+   "delay_rate": 0.8596,
+   "avg_delay": 42.1692
+  },
+  {
+   "key": "2024-06",
+   "delay_rate": 0.8696,
+   "avg_delay": 42.8227
+  },
+  {
+   "key": "2024-07",
+   "delay_rate": 0.8745,
+   "avg_delay": 43.2922
+  },
+  {
+   "key": "2024-08",
+   "delay_rate": 0.8657,
+   "avg_delay": 42.7354
+  },
+  {
+   "key": "2024-09",
+   "delay_rate": 0.8659,
+   "avg_delay": 42.7793
+  },
+  {
+   "key": "2024-10",
+   "delay_rate": 0.8707,
+   "avg_delay": 42.9915
+  },
+  {
+   "key": "2024-11",
+   "delay_rate": 0.8641,
+   "avg_delay": 42.6749
+  },
+  {
+   "key": "2024-12",
+   "delay_rate": 0.8595,
+   "avg_delay": 42.4223
+  },
+  {
+   "key": "2025-01",
+   "delay_rate": 0.8575,
+   "avg_delay": 41.966
+  },
+  {
+   "key": "2025-02",
+   "delay_rate": 0.8713,
+   "avg_delay": 42.9226
+  },
+  {
+   "key": "2025-03",
+   "delay_rate": 0.8753,
+   "avg_delay": 43.0318
+  },
+  {
+   "key": "2025-04",
+   "delay_rate": 0.8618,
+   "avg_delay": 42.4365
+  },
+  {
+   "key": "2025-05",
+   "delay_rate": 0.8657,
+   "avg_delay": 42.5481
+  },
+  {
+   "key": "2025-06",
+   "delay_rate": 0.8603,
+   "avg_delay": 42.5112
+  },
+  {
+   "key": "2025-07",
+   "delay_rate": 0.8618,
+   "avg_delay": 42.5241
+  },
+  {
+   "key": "2025-08",
+   "delay_rate": 0.8674,
+   "avg_delay": 42.5708
+  },
+  {
+   "key": "2025-09",
+   "delay_rate": 0.8705,
+   "avg_delay": 42.9247
+  },
+  {
+   "key": "2025-10",
+   "delay_rate": 0.8574,
+   "avg_delay": 42.3012
+  },
+  {
+   "key": "2025-11",
+   "delay_rate": 0.8737,
+   "avg_delay": 43.0249
+  },
+  {
+   "key": "2025-12",
+   "delay_rate": 0.8643,
+   "avg_delay": 42.4946
+  }
+ ],
+ "metrics": {
+  "n_test": 49569,
+  "accuracy": 0.9430692569952995,
+  "precision": 0.9591074660374332,
+  "recall": 0.9758291960935133,
+  "f1": 0.9673960764378308,
+  "roc_auc": 0.8674971860517287,
+  "pr_auc": 0.9614316612815428,
+  "baseline_accuracy": 0.8655207892029293,
+  "confusion": [
+   [
+    4881,
+    1785
+   ],
+   [
+    1037,
+    41866
+   ]
+  ],
+  "roc": {
+   "fpr": [
+    0.0,
+    0.0029,
+    0.0057,
+    0.0086,
+    0.0114,
+    0.0144,
+    0.0176,
+    0.0204,
+    0.0233,
+    0.0261,
+    0.0291,
+    0.0321,
+    0.035,
+    0.0377,
+    0.0407,
+    0.0435,
+    0.0467,
+    0.0495,
+    0.0522,
+    0.0551,
+    0.0581,
+    0.0609,
+    0.0639,
+    0.0669,
+    0.0699,
+    0.0728,
+    0.0756,
+    0.0783,
+    0.0813,
+    0.0842,
+    0.087,
+    0.0902,
+    0.0929,
+    0.0957,
+    0.099,
+    0.1019,
+    0.1047,
+    0.1076,
+    0.1106,
+    0.1136,
+    0.1164,
+    0.1193,
+    0.122,
+    0.125,
+    0.128,
+    0.1313,
+    0.1341,
+    0.1368,
+    0.1398,
+    0.1427,
+    0.146,
+    0.149,
+    0.1517,
+    0.1548,
+    0.1577,
+    0.1605,
+    0.1632,
+    0.1667,
+    0.1697,
+    0.1728,
+    0.1758,
+    0.1788,
+    0.1817,
+    0.1845,
+    0.1874,
+    0.1905,
+    0.1932,
+    0.1965,
+    0.1994,
+    0.2022,
+    0.2052,
+    0.2081,
+    0.2109,
+    0.2139,
+    0.2168,
+    0.2198,
+    0.2226,
+    0.2255,
+    0.2288,
+    0.2319,
+    0.2348,
+    0.2378,
+    0.2406,
+    0.2438,
+    0.2469,
+    0.2499,
+    0.2526,
+    0.2555,
+    0.2585,
+    0.2613,
+    0.2646,
+    0.2681,
+    0.2714,
+    0.2754,
+    0.279,
+    0.2825,
+    0.288,
+    0.2921,
+    0.2963,
+    0.3015,
+    0.3066,
+    0.3107,
+    0.318,
+    0.3252,
+    0.333,
+    0.341,
+    0.3494,
+    0.3597,
+    0.3683,
+    0.3834,
+    0.4148,
+    0.4448,
+    0.4932,
+    0.5593,
+    0.6722,
+    0.722,
+    0.806,
+    0.8603,
+    0.9371,
+    1.0
+   ],
+   "tpr": [
+    0.0,
+    0.0139,
+    0.026,
+    0.0389,
+    0.0465,
+    0.0539,
+    0.0631,
+    0.0766,
+    0.0852,
+    0.0993,
+    0.115,
+    0.1257,
+    0.1414,
+    0.1527,
+    0.1647,
+    0.1742,
+    0.1854,
+    0.1982,
+    0.2091,
+    0.2194,
+    0.2288,
+    0.2392,
+    0.2497,
+    0.2593,
+    0.2715,
+    0.2802,
+    0.2923,
+    0.3039,
+    0.3192,
+    0.3333,
+    0.3421,
+    0.3504,
+    0.3629,
+    0.3759,
+    0.3876,
+    0.4004,
+    0.4094,
+    0.4217,
+    0.4337,
+    0.4413,
+    0.4519,
+    0.4587,
+    0.4701,
+    0.4797,
+    0.4927,
+    0.5012,
+    0.512,
+    0.525,
+    0.5415,
+    0.5546,
+    0.5637,
+    0.577,
+    0.5895,
+    0.6012,
+    0.6112,
+    0.6242,
+    0.6335,
+    0.6444,
+    0.6564,
+    0.6682,
+    0.6832,
+    0.6952,
+    0.7077,
+    0.7159,
+    0.7236,
+    0.7355,
+    0.7497,
+    0.7606,
+    0.7666,
+    0.7777,
+    0.7867,
+    0.8012,
+    0.8116,
+    0.819,
+    0.8325,
+    0.8433,
+    0.8517,
+    0.864,
+    0.877,
+    0.8852,
+    0.8938,
+    0.9055,
+    0.9104,
+    0.9186,
+    0.9234,
+    0.9332,
+    0.9437,
+    0.9563,
+    0.9645,
+    0.9702,
+    0.9736,
+    0.9767,
+    0.979,
+    0.9804,
+    0.982,
+    0.9836,
+    0.9848,
+    0.9863,
+    0.9873,
+    0.9883,
+    0.9893,
+    0.99,
+    0.9908,
+    0.9917,
+    0.9923,
+    0.9931,
+    0.9936,
+    0.9941,
+    0.9947,
+    0.9952,
+    0.9958,
+    0.9963,
+    0.9967,
+    0.9972,
+    0.9977,
+    0.9982,
+    0.9986,
+    0.999,
+    0.9995,
+    1.0
+   ]
+  },
+  "reg_mae": 7.381518402004516,
+  "reg_rmse": 12.203624364280005,
+  "reg_r2": 0.5889276421652723
+ },
+ "importance": {
+  "Origin_Congestion_Index": 0.08014,
+  "Turnaround_Risk_Index": 0.01193,
+  "Previous_Flight_Delay_Minutes": 0.00751,
+  "Origin_Airport": 0.00388,
+  "Destination_Airport": 0.00382,
+  "Peak_Hour": 0.00255,
+  "Month": 0.00118,
+  "Temperature_C": 0.00089,
+  "Is_Weekend": 0.00066,
+  "Day_of_Week": 0.00051,
+  "Rainfall_mm": 0.00042,
+  "Cloud_Cover_pct": 5e-05,
+  "Humidity_pct": 0.0,
+  "Airline": -0.0,
+  "Visibility_km": -0.00019,
+  "Weather": -0.00047,
+  "Wind_Speed_kmh": -0.00061,
+  "Scheduled_Departure_Minute": -0.00074,
+  "Scheduled_Departure_Hour": -0.00132
+ },
+ "airports": [
+  "AGR",
+  "AJL",
+  "AKD",
+  "AMD",
+  "ATQ",
+  "BBI",
+  "BDQ",
+  "BHJ",
+  "BHO",
+  "BHU",
+  "BKB",
+  "BLR",
+  "BOM",
+  "CCU",
+  "CJB",
+  "CNN",
+  "COK",
+  "DBR",
+  "DED",
+  "DEL",
+  "DHM",
+  "DIB",
+  "DIU",
+  "DMU",
+  "GAU",
+  "GAY",
+  "GOI",
+  "GOP",
+  "GWL",
+  "HBX",
+  "HYD",
+  "IDR",
+  "IMF",
+  "ISK",
+  "IXA",
+  "IXB",
+  "IXC",
+  "IXD",
+  "IXE",
+  "IXG",
+  "IXJ",
+  "IXM",
+  "IXR",
+  "IXU",
+  "IXW",
+  "IXY",
+  "IXZ",
+  "JAI",
+  "JDH",
+  "JGA",
+  "JLR",
+  "JRH",
+  "JSA",
+  "KNU",
+  "KUU",
+  "LEH",
+  "LKO",
+  "MAA",
+  "MYQ",
+  "NAG",
+  "NDC",
+  "PAT",
+  "PBD",
+  "PNQ",
+  "RAJ",
+  "RDP",
+  "REW",
+  "RPR",
+  "SHL",
+  "SLV",
+  "STV",
+  "SXR",
+  "SXV",
+  "TCR",
+  "TIR",
+  "TRV",
+  "TRZ",
+  "UDR",
+  "VDY",
+  "VGA",
+  "VNS",
+  "VOBL",
+  "VOPC",
+  "VOPN",
+  "VTU",
+  "VTZ"
+ ],
+ "airlines": [
+  "Air India",
+  "Air India Express",
+  "Akasa Air",
+  "Alliance Air",
+  "Fly91",
+  "IndiGo",
+  "SpiceJet",
+  "Star Air",
+  "Vistara"
+ ]
+}
